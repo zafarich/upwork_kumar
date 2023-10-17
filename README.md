@@ -1,4 +1,4 @@
-# Pentagol app (Upwork)
+# Upwork app (Upwork)
 
 Upwork
 
