@@ -1,8 +1,8 @@
 {
-  "name": "pentagol",
+  "name": "upwork",
   "version": "0.0.1",
-  "description": "Pentagol admin",
-  "productName": "Pentagol admin",
+  "description": "Upwork task",
+  "productName": "Upwork task",
   "author": "Zafar <webzafar6699@gmail.com>",
   "private": true,
   "scripts": {

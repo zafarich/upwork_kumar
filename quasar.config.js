@@ -97,7 +97,7 @@ module.exports = configure(function (ctx) {
       },
 
       builder: {
-        appId: "PentaGol-admin",
+        appId: "Upwork",
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

@@ -1,6 +1,6 @@
-# Pentagol app (Pentagol-admin)
+# Pentagol app (Upwork)
 
-Pentagol admin
+Upwork
 
 ## Install the dependencies
 
